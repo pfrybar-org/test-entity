@@ -34,4 +34,4 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: admin
+  owner: guests
